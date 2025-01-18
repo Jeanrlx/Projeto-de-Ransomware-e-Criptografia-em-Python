@@ -2,7 +2,7 @@
 
 Ransomware para criptografar arquivos utilizando a linguagem Python!
 
-### Conhecimentos em: ###
+### Conhecimento em: ###
 * Linux
 * Python
 
