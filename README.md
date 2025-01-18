@@ -10,5 +10,6 @@ Criação de 1 diretório e 3 arquivos, sendo um aquivo teste, um para criptogra
 
 ![image](https://github.com/user-attachments/assets/7c7dcd90-0d44-4303-8b6a-549e5916c40e)
 
+Assim que criar os arquivos digite no terminal "python encrypter" para criptografar e "python decrypter" para descriptografar.
 
 
